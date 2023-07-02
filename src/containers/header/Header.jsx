@@ -1,7 +1,7 @@
 import React from "react";
 import "./header.css";
 import avatar from "../../assets/home-avatar.png";
-import people from "../../assets/people.png";
+import icon from "../../assets/icon.png";
 
 
 const Header = () => (
@@ -16,7 +16,7 @@ const Header = () => (
       </div>
 
       <div className="webscape-header-content-social">
-     
+        <img src={icon} />
         <p>Together, with one click we can change the future !</p>
       </div>
     </div>
