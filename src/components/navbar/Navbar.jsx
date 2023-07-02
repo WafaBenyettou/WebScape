@@ -6,10 +6,13 @@ import './navbar.css'
 const Navbar = () => {
   return (
     <div className='webscape-navbar'>
+
         <div className='webscape-navbar-links'>
+
             <div className='webscape-navbar-links-logo'>
                <img src={logo} alt='logo'/>
             </div>
+
             <div className='webscape-navbar-links-container'>
                 <p><a href='#home'>Home</a></p>
                 <p><a href='#webscape'>About</a></p>
@@ -17,6 +20,7 @@ const Navbar = () => {
                 <p><a href='#features'>Features</a></p>
                 <p><a href='#blog'>Blog</a></p>
             </div>
+            
         </div>
 
     </div>

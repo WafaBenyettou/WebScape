@@ -25,6 +25,27 @@
   flex-direction: row;
 }
 
+.webscape-navbar-links-container p ,
+.webscape-navbar-sign p,
+.webscape-navbar-menu-container p{
+  color: #fff;
+  font-family: var(--font-family);
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 25px;
+  text-transform: capitalize;
+
+  margin:0 1rem;
+  cursor: pointer;
+}
+
+
+
+
+
+
+
+
 .webscape-navbar-sign {
   display: flex;
   justify-content: flex-end;
