@@ -65,8 +65,8 @@
     font-weight: 400;
     font-size: 20px;
     line-height: 28px;
-    background: #FF4820;
-    border: 2px solid #FF4820;
+    background: #5020ff;
+    border: 2px solid #5020ff;
     padding: 0 1rem;
     color: #fff;
     cursor: pointer;
@@ -92,7 +92,7 @@
 }
 
 .webscape-header-content-social p {
-    margin: 0 0 0 1rem;
+    margin: 0;
     font-family: var(--font-family);
     font-weight: 500;
     font-size: 12px;

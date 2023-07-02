@@ -7,8 +7,8 @@ import people from "../../assets/people.png";
 const Header = () => (
   <div className="webscape-header section-padding" id="home">
     <div className="webscape-header-content">
-      <h1 className="gradient-text">Let&apos;s Build Something amazing with GPT-3 OpenAI</h1>
-      <p>Yet bed any for travelling assistance indulgence unpleasing. Not thoughts all exercise blessing. Indulgence way everything joy alteration boisterous the attachment. Party we years to order allow asked of.</p>
+      <h1 className="gradient-text">Explore our latest inventions with &apos; WebScape &apos; !</h1>
+      <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Provident dolore saepe exercitationem illo, et enim rerum reprehenderit optio doloremque, excepturi illum magnam labore assumenda ducimus ad repellat atque consectetur at!</p>
 
       <div className="webscape-header-content-input">
         <input type="email" placeholder="Your Email Address" />
@@ -16,8 +16,8 @@ const Header = () => (
       </div>
 
       <div className="webscape-header-content-social">
-        <img src={people} />
-        <p>1,600 people requested access a visit in last 24 hours</p>
+     
+        <p>Together, with one click we can change the future !</p>
       </div>
     </div>
 
