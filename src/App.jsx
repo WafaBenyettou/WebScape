@@ -13,19 +13,24 @@ import Header from './containers/header/Header.jsx';
 import Possibility from './containers/possibility/Possibility.jsx';
 import Webscape from './containers/webScape/Webscape.jsx';
 
-//imported styles
-import './App.css'
+
 
 
 function App() {
   return (
-    <>
-
-       <h1>Hello world!</h1>
-
-
-
-    </>
+    <div className='App'>
+     <div className='gradient-bg'>
+      <Navbar />
+      <Header />
+      </div>
+      <Brand />
+      <Webscape />
+      <Feature />
+      <Possibility />
+      <CTA />
+      <Blog />
+      <Footer />
+    </div>
   )
 }
 
