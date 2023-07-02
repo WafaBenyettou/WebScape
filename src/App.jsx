@@ -10,12 +10,15 @@ import './App.css'
 function App() {
   return (
     <>
-     <Article />
+
+    
+      <Navbar />
+      <Article />
       <Brand />
       <CTA />
       <Features />
-      <Navbar />
-      
+
+
 
     </>
   )
