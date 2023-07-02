@@ -13,7 +13,8 @@ import Header from './containers/header/Header.jsx';
 import Possibility from './containers/possibility/Possibility.jsx';
 import Webscape from './containers/webScape/Webscape.jsx';
 
-
+//imported styles
+import './App.css'
 
 
 function App() {
