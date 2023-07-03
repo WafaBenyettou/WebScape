@@ -8,12 +8,11 @@
   display: flex;
   justify-content: flex-start;
   align-items: center;
-
   margin-right: 2rem;
 }
 
 .webscape-possibility-image img {
-  width: 100%;
+  width: 70%;
   height: 100%;
 }
 
