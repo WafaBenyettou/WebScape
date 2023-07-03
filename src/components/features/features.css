@@ -1,4 +1,4 @@
-.webscape-features-container-feature {
+.webscape-features-container-features {
     width: 100%;
     display: flex;
     justify-content: space-between;
@@ -8,13 +8,13 @@
     margin: 1rem;
 }
 
-.webscape-features-container-feature-title {
+.webscape-features-container-features-title {
     flex: 1;
     max-width: 180px;
     margin-right: 2rem;
 }
 
-.webscape-features-container-feature-title h1 {
+.webscape-features-container-features-title h1 {
     font-family: var(--font-family);
     font-weight: 800;
     font-size: 18px;
@@ -23,7 +23,7 @@
     color: #fff;
 }
 
-.webscape-features-container-feature-title div {
+.webscape-features-container-features-title div {
     width: 38px;
     height: 3px;
     background: var(--gradient-bar);
@@ -31,13 +31,13 @@
     margin-bottom: 0.25rem;
 }
 
-.webscape-features-container_feature-text {
+.webscape-features-container-features-text {
     flex: 2;
     max-width: 390px;
     display: flex;
 }
 
-.webscape-features-container_feature-text p {
+.webscape-features-container-features-text p {
     font-family: var(--font-family);
     font-weight: 500;
     font-size: 14px;
@@ -46,17 +46,17 @@
 }
 
 @media screen and (max-width: 550px) {
-    .webscape-features-container-feature-title h1 {
+    .webscape-features-container-features-title h1 {
         font-size: 14px;
         line-height: 22px;
     }
 
-    .webscape-features-container_feature-text p {
+    .webscape-features-container-features-text p {
         font-size: 12px;
         line-height: 20px;
     }
 
-    .webscape-features-container-feature {
+    .webscape-features-container-features {
         margin: 1rem 0;
     }
 }
