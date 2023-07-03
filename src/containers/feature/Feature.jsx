@@ -4,7 +4,7 @@ import Features from '../../components/features/Features'
 
 const Feature = () => {
   return (
-    <div className='webscape-feature section-padding' id='feature'>
+    <div className='webscape-feature section-padding' id='features'>
           <div className='webscape-feature-heading'>
             <h1 className='gradient-text'>Discover our amazing feature with just one click away. Take the first step today and make it happen</h1>
             <p>Request access to get Started today</p>
