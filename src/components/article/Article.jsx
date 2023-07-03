@@ -1,9 +1,13 @@
 import React from 'react';
 import './article.css';
 
-const Article = () => {
+const Article = ({img}) => {
   return (
-    <div>Article</div>
+    <div className='webscape-blog-container-article'> 
+    <div className='webscape-blog-container-article-image'>
+      <img src={img} alt='article' />
+    </div>
+    </div>
   )
 }
 
