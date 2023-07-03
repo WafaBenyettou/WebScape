@@ -14,9 +14,9 @@ const Webscape = () => {
         </div>
 
         <div className='webscape-webscape-container'>
-          <Features title="High preformance" text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eleifend ipsum nec ligula consectetur tristique. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Cras at lectus massa. Integer convallis mauris id tortor efficitur, et volutpat eros accumsan."/>
-          <Features title="Compatible" text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eleifend ipsum nec ligula consectetur tristique. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Cras at lectus massa. Integer convallis mauris id tortor efficitur, et volutpat eros accumsan." />
-          <Features title="Flexible" text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eleifend ipsum nec ligula consectetur tristique. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Cras at lectus massa. Integer convallis mauris id tortor efficitur, et volutpat eros accumsan." />
+          <Features title="High preformance" text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eleifend ipsum nec ligula consectetur tristique. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Cras at lectus massa. Integer convallis mauris id tortor efficitur."/>
+          <Features title="Compatible" text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eleifend ipsum nec ligula consectetur tristique." />
+          <Features title="Flexible" text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eleifend ipsum nec ligula consectetur tristique. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae." />
         </div>
     </div>
   )
